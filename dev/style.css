@@ -72,7 +72,7 @@ font-weight: 200;
 /*Banner*/
 #banner{
     padding: 0 50px;
-    background-image: url(./mujer-pelo.jpg);
+    background-image: url(./dev/mujer-pelo.jpg);
     height: 50vh;
     background-size: cover;
     background-position: center;
@@ -125,7 +125,7 @@ font-weight: 200;
 /*Sección consulta*/
 #section-info{
     padding: 0 50px;
-    background-image: url(./hombre-pelo.jpg);
+    background-image: url(./dev/hombre-pelo.jpg);
     height: 70vh;
     background-size: cover;
     background-position: center;
